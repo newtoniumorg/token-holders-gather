@@ -7,7 +7,7 @@ Simply change the url with specific token contract address if you want to take a
 # How to install:
 $ npm install
 
-#Run the program
+# Run the program
 $ node scrap
 
 Don't forget to modify/change the database connection with your own firebase database.
